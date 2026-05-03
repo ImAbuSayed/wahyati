@@ -10,7 +10,8 @@
 |-------|---------|
 | Title | Wahyati |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 23, 2026 |
+| Lyric Writing Date | April 20, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/wahyati/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حياتي نور دربي في الظلام
+> أنت روحي أنت سري والسلام
+> شوقي إليك كالنار في برد الخيام
+> نبض قلبي يناديك في كل عام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
